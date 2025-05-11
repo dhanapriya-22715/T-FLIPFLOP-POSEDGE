@@ -53,6 +53,9 @@ else
  end
  endmodule
 ```
+Developed by: Dhanappriya S
+
+RegisterNumber:212224230056
 **RTL LOGIC FOR FLIPFLOPS**
 
 ![image](https://github.com/user-attachments/assets/cf2a6c68-1a70-4b7e-a98c-5b727b3106be)
